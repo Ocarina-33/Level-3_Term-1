@@ -8,10 +8,10 @@ This repository contains coursework completed for Level-3, Term-1 at Bangladesh 
 
 The workspace includes course folders and supporting files. Key folders present in this workspace are:
 
-- `CSE 310 - Compiler Sessional`
-- `CSE 314 - OS Sessional`
-- `CSE 316 - Microcontroller and Microprocessor sessional`
-- `CSE 318 - AI Sessional`
+- `CSE 310 - Compiler Sessionals`
+- `CSE 314 - OS Sessionals`
+- `CSE 316 - Microcontroller and Microprocessor Sessionals`
+- `CSE 318 - AI Sessionals`
 
 Each directory contains offline assignments, online lab exam solutions, project code, and supporting materials.
 
