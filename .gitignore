@@ -1,0 +1,16 @@
+*.exe
+*.o
+*.out
+*.hex
+*.bin
+
+__pycache__/
+*.pyc
+venv/
+.env
+
+.vscode/
+.idea/
+
+Thumbs.db
+Desktop.ini
